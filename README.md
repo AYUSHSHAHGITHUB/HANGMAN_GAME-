@@ -22,7 +22,7 @@ Welcome to the **Hangman Game**! This project is a classic word-guessing game wh
 ## Installation 🛠️
 1. Clone the repository:
    
-   git clone https://github.com/yourusername/Hangman_Game.git
+   git clone (https://github.com/AYUSHSHAHGITHUB/HANGMAN_GAME-.git)
    cd Hangman_Game
 
 # AYUSH SHAH #
