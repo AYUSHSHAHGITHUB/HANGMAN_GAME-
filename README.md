@@ -1,5 +1,7 @@
 # AYUSH SHAH #
 
+# CODEALPHA TASK_1 #
+
 # Hangman Game 🎮
 
 Welcome to the **Hangman Game**! This project is a classic word-guessing game where players try to guess a hidden word one letter at a time before running out of attempts.
